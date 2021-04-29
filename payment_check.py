@@ -10,7 +10,6 @@ import zkh_xml
 import tqdm
 
 
-CHUNK_SIZE = 500
 AB_SERVICE = 'http://it01/SurgF/hs/GG/CalcCheck/'
 
 
